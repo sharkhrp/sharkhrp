@@ -2,7 +2,7 @@
 - 👀 I’m interested in pyhton
 - 🌱 I’m currently learning python libraries and encoding
 - 💞️ I’m looking to collaborate on php
-- 📫 How to reach me insta = ammar_balouch5
+- 📫 How to reach me in gmail ammar537balouch@gmail.com
 
 <!---
 sharkhrp/sharkhrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
